@@ -1,6 +1,14 @@
 <?php
 
 /**
+<<<<<<< HEAD
+=======
+ * Display all errors when APPLICATION_ENV is development.
+ */
+
+
+/**
+>>>>>>> bc2a7df48469fe134b712252727eb6c839a8120b
  * This makes our life easier when dealing with paths. Everything is relative
  * to the application root now.
  */
